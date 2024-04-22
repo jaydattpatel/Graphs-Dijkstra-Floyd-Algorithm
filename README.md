@@ -1,4 +1,7 @@
 # Graphs
+<div id="badges">
+  <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2FGraphs-algorithams&label=Visitors&countColor=%2337d67a" alt="Visitor badge" width="100" height="28"/>
+</div>
 Different operation of Directed Graph or Undirected Graph using C++
 
 ![image](https://user-images.githubusercontent.com/124486498/228297883-b8314656-3712-4e39-986c-e637fc4f4b8e.png)
