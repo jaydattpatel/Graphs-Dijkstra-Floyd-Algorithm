@@ -1,6 +1,6 @@
 # Graphs
 <div id="badges">
-  <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2FGraphs-algorithams&label=Visitors&countColor=%2337d67a" alt="Visitor badge" width="100" height="28"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2FGraphs-algorithams&label=Visitors&labelColor=%23720026&countColor=%23ffae00" alt="Visitor badge" width="100" height="28"/>
 </div>
 Different operation of Directed Graph or Undirected Graph using C++
 
